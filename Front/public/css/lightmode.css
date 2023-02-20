@@ -1,0 +1,508 @@
+#app {
+  color: #000000 !important;
+  background-color: #F2F2F2!important;
+}
+.left-menu-crap > a > li {
+  color: #000000 !important;
+}
+.left-menu-crap > a > li > img,
+.menu-block > img {
+  filter: brightness(0);
+}
+.card-wrap,
+.profile-avatar-wrap,
+.profile-info-wrap,
+.wrap-servise,
+.wrap-card,
+.wrap-tickets {
+  background-color: #fff !important;
+}
+#progressbar {
+  background-color: #b0bcbc;
+}
+.current-target-number > p,
+.menu-block > h1,
+.profile-block,
+.progress-title,
+.progress-text,
+.company-name,
+.bold-copyright,
+.messages-title,
+.project-title-text,
+.user-name,
+.user-message,
+.checkout-balance-text,
+.ticket-title-wrap > .title,
+.message-textarea {
+ color: #171B1E !important;
+}
+.top-menu-text{
+  color: #16171790 !important;
+}
+.left-menu-crap > a > li:hover, .message-get, .message-send {
+  color: #fff !important;
+}
+.left-menu-crap > a > li:hover > img {
+  filter: brightness(1);
+}
+.border-project {
+  border: 2px solid #fff6f617 !important;
+}
+.offer-wrap {
+  background: linear-gradient( 212.43deg, #8bd1e6 19.43%, #38dbff 87.63% ) !important;
+}
+.icon-to-dark,
+.settings > img,
+.servise-cons-wrap {
+  filter: brightness(0) !important;
+}
+.card-wrap:hover {
+  box-shadow: 6px 6px 6px #1b1a1f17, -6px -6px 6px #24232612 !important;
+}
+.progress {
+  background-color: #535557 !important;
+}
+.light-style {
+  background-color: #161717 !important;
+  color: #ffffff !important;
+}
+.blocked-servise::after {
+  background: repeating-linear-gradient(
+    -60deg,
+    #55555521 0,
+    #55555521 1px,
+    transparent 2px,
+    transparent 5px
+  );
+}
+
+.button-send:hover {
+  background: #1d3573!important;
+  color: #fff!important;
+  transform: scale(1.03);
+}
+.wrap{
+  border-right: 2px solid rgb(51, 51, 51, 0.15)!important;
+}
+.avatar{
+  /* outline: 9px solid #f2f2f2!important; */
+}
+
+.search-clients {
+  background-color: #fff !important;
+}
+
+.client-item {
+  background-color: #fff !important;
+}
+
+.agreements-list__item {
+  background-color: #fff !important;
+}
+
+.agreements-list__date {
+  color: #000 !important;
+}
+
+.agreements-list__title {
+  color: #000 !important;
+}
+
+.offer-title {
+  color: #fff !important;
+}
+
+.offer-text {
+  margin-bottom: 0 !important;
+  color: #fff !important;
+}
+
+.message-send {
+  background: #1d5dff !important;
+}
+
+.home-link.router-link-active>.home-tab > p,
+.project-link.router-link-active>.project-tab > p,
+.contacts-link.router-link-active>.contacts-tab > p,
+.kanban-link.router-link-active>.kanban-tab > p,
+.analytics-link.router-link-active>.analytics-tab > p,
+.calendar-link.router-link-active>.calendar-tab > p,
+.messages-link.router-link-active>.messages-tab > p {
+  color: #fff !important;
+}
+
+
+.home-link.router-link-active>.home-tab > img,
+.project-link.router-link-active>.project-tab > img,
+.contacts-link.router-link-active>.contacts-tab > img,
+.kanban-link.router-link-active>.kanban-tab > img,
+.analytics-link.router-link-active>.analytics-tab > img,
+.calendar-link.router-link-active>.calendar-tab > img,
+.messages-link.router-link-active>.messages-tab > img {
+  filter: brightness(1) !important;
+  opacity: 1 !important;
+}
+
+.modal-content-client-custom .form-control {
+  background: #fff !important;
+}
+
+.modal-content-client-custom .client-header-custom {
+  color: #000 !important;
+}
+
+.profile-email {
+  color: #000 !important;
+}
+
+.service-list {
+  background-color: #28a7e3 !important;
+}
+
+.modal-content-client-custom .btn-modal-create-user {
+  background: #1d5dff !important;
+}
+
+.agreements-filter__tab.active {
+  color: #000 !important;
+}
+
+.modal-content-client-custom .form-control {
+  color: #244697 !important;
+}
+
+/* .left-menu-crap > a > li > p {
+  color: #fff !important;
+}
+
+.left-menu-crap > a > li > img {
+  filter: brightness(1) !important;
+  opacity: 1 !important;
+} */
+
+
+
+.router-link-active > li > img {
+  filter: brightness(1) !important;
+  opacity: 1 !important;
+}
+
+.client-name {
+  color: #000 !important;
+}
+
+.client-email {
+  color: #000 !important;
+}
+
+.search-clients {
+  color: #000 !important;
+}
+
+
+.agreements-title {
+  color: #fff !important;
+}
+
+.modal-try {
+  background: #1d5dff !important;
+}
+
+.profile-info > label {
+  color: #000 !important;
+}
+
+.feedback-header-custom {
+  color: #000 !important;
+}
+
+.agreements-title {
+  color: #000 !important;
+}
+
+.agreements-filter__tab:hover {
+  color: #000 !important;
+}
+
+.info-wrapper {
+  background: #fff !important;
+}
+
+.agreements-filter__tab.active {
+  color: #000 !important;
+  border-bottom: 2px solid #000 !important;
+}
+
+.services-filter__add:hover {
+  color: #1d5dff !important;
+}
+
+.agreements-filter__add:hover {
+  color: #1d5dff !important;
+}
+
+.client-avatar-wrapper:after {
+  border: 4px solid #fff !important;
+}
+
+.router-link-exact-active > li > .notification-bubble {
+  background-color: #fff !important;
+}
+
+.router-link-exact-active > li > .notification-bubble > p {
+  color: #09bd3c !important;
+}
+
+.modal-content-bank-custom {
+  background: #fff !important;
+}
+
+.webflow-style-input {
+  background: rgb(238 241 249 / 80%) !important;
+}
+
+.webflow-style-input input {
+  color: #000 !important;
+}
+
+.feed-left {
+  background-color: #000 !important;
+}
+
+.feed-right {
+  background-color: #fff !important;
+}
+
+.modal-content-client-custom {
+  background-color: #fff !important;
+}
+
+.modal-content-client-custom .form-control {
+  background: rgb(238 241 249 / 80%) !important;
+  color: #000 !important;
+}
+
+#progressbar {
+  background: #DCDCDC !important;
+}
+
+[role="progressbar"]::before {
+  background: conic-gradient( from 0.75turn at 50% 100%, var(--thirdly) calc(var(--percentage) * 1% / 2), #DCDCDC calc(var(--percentage) * 1% / 2 + 0.1%) ) !important;
+}
+
+.checkout-after-balance-text {
+  color: #717579 !important;
+}
+
+.modal-content-client-custom {
+  border: 1px solid #e5e5e5 !important;
+  box-shadow: none !important;
+}
+
+.modal-content-client-custom .form-control {
+  border-radius: 5px !important;
+  border-bottom-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+
+.modal-content-bank-custom {
+  border: 1px solid #e5e5e5 !important;
+  box-shadow: none !important;
+}
+
+.modal-content-bank-custom .form-group {
+  border-radius: 5px !important;
+  border-bottom-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+
+.modal-content-feedback-custom {
+  border: 1px solid #e5e5e5 !important;
+  box-shadow: none !important;
+}
+
+.client-header .left-menu-crap > a > li > p {
+  color: #000 !important;
+}
+
+.client-header .router-link-active > li > img {
+  filter: brightness(0) !important;
+  opacity: 1 !important;
+}
+
+.client-header .left-menu-crap > a > li:hover > img {
+  filter: brightness(1) !important;
+}
+
+.client-header .left-menu-crap > a > li:hover > p {
+  color: #fff !important;
+}
+
+.client-header .router-link-exact-active > li > .notification-bubble {
+  background-color: #09bd3c !important;
+}
+
+.client-header .router-link-exact-active > li > .notification-bubble > p {
+  color: #fff !important;
+}
+
+.modal-content-client-custom {
+  background: #fff !important;
+}
+
+
+.partner-header.left-menu-crap > a > li > p {
+  color: #000 !important;
+}
+
+.partner-header.router-link-active > li > img {
+  filter: brightness(0) !important;
+  opacity: 1 !important;
+}
+
+.partner-header.left-menu-crap > a > li:hover > img {
+  filter: brightness(1) !important;
+}
+
+.partner-header.left-menu-crap > a > li:hover > p {
+  color: #fff !important;
+}
+
+.partner-header.router-link-exact-active > li > .notification-bubble {
+  background-color: #09bd3c !important;
+}
+
+.partner-header.router-link-exact-active > li > .notification-bubble > p {
+  color: #fff !important;
+}
+.router-link-active > li > p {
+  color: #fff !important;
+}
+
+.partner-call-modal {
+  background: #fff !important;
+}
+
+.avatar {
+  outline: 9px solid #e7e7e7 !important;
+}
+
+.avatar-message {
+  outline: none !important;
+}
+
+.header-exit {
+  background-color: #000 !important;
+}
+
+.header-exit > img {
+  filter: brightness(1) !important;
+}
+
+.header-exit > p {
+  color: #fff !important;
+}
+
+.modal-content-bank-custom > .modal-body {
+  background: #fff !important;
+}
+
+.service-data-modal {
+  background: #fff !important;
+}
+
+
+.modal-content-feedback-custom .offer-try {
+  color: #fff !important;
+}
+
+.modal-send-first {
+  color: #fff !important;
+}
+
+.modal-send-second {
+  color: #000 !important;
+}
+
+.input-color::placeholder {
+  color: #000 !important;
+}
+
+.service-input-wrapper:before {
+  filter: brightness(0);
+}
+
+.agreements-list__subitem {
+  border: 2px solid #1d5dff !important;
+}
+
+.tickets-content .form-control {
+  background: rgb(238 241 249 / 80%) !important;
+  color: #000 !important;
+}
+
+.tickets-content .clients-input::placeholder {
+  color: rgba(0, 0, 0, 0.4) !important;
+}
+
+#ticket-theme::placeholder {
+  color: #6c757d !important;
+}
+
+#ticket-text::placeholder {
+  color: #6c757d !important;
+}
+
+.tickets-content .service-item {
+  color: #fff !important;
+}
+
+.messages-bg-wrap {
+  background: none !important;
+}
+
+.tickets-content .nav-link {
+  color: #fff !important;
+} 
+
+.nav-tabs .nav-link:not(.active) {
+  color: #000 !important;
+}
+
+.nav-tabs .nav-link:not(.active):hover {
+  background-color: #ccc !important;
+}
+
+.messages-option {
+  filter: brightness(0) !important;
+}
+
+.service-item:hover {
+  background-color: #82c8e9 !important;
+}
+
+#header_block .offer-try {
+  border-color: #000 !important;
+}
+
+#header_block .offer-try:hover {
+  background-color: #fff !important;
+  transform: none !important;
+  border-color: #000 !important;
+}
+
+#header_block .offer-try:hover > p {
+  color: #000 !important;
+}
+
+#header_block .offer-try:hover > img {
+  filter: brightness(0) !important;
+}
+
+.blocked-info {
+  color: #fff !important;
+}
+
+.tickets-content .circle  {
+  color: #fff !important;
+}
